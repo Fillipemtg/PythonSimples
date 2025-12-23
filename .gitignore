@@ -1,2 +1,5 @@
 .venv/
 executar.bat
+.env
+Eng_prompt/
+.ipynb_checkpoints/
